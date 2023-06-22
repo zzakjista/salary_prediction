@@ -1,4 +1,4 @@
-# salary_prediction
+# Salary prediction model
 The salary prediction model that is built by Machine Learning sturcture in kaggle competition
 <br>
 <u> we are two-man team and 3rd winner in this competition. </u>
